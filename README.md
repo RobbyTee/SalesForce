@@ -31,7 +31,7 @@ Your dashboard should have the Shipped/Arrived chart in the top left with the sa
 
 
 ## Global Variables
-[Global variables necessary for script to run](https://i.imgur.com/LvZHjRH.png)
+![Global variables necessary for script to run](https://i.imgur.com/LvZHjRH.png)
 ### Firewall Rules Spreadsheet ID
 
 You should now be ready to run the script with:
