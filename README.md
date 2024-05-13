@@ -5,11 +5,14 @@ I'm a glutton for punishment so I wrote this using Safari on Mac OS. I'm certain
 
 We use the Google Suite for spreadsheets and documents; [Cal.com](https://cal.com) for scheduling appointments.
 
-## Setup Python
-This script is written in [Python 3.10.8](https://www.python.org/downloads/release/python-3108/).
+## Setup
+### Python
+This script is written in [Python 3.10.8](https://www.python.org/downloads/release/python-3108/). Once installed, navigate to the folder with requirements.txt and run:
 ```
 pip3 install requirements.txt
 ```
+
+### Safari 
 Your SafariDriver is located at /usr/bin/safaridriver. Be sure to "Allow Remote Automation" in Safari.
 
 PyDrive2 uses OAuth created from Google Drive API. [Instructions here](https://docs.iterative.ai/PyDrive2/quickstart/).
