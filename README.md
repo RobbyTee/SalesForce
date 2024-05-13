@@ -1,5 +1,11 @@
 # SalesForce
 
+This Python script automates assembling a spreadsheet based on information unique to an account and scheduling an appointment based on the customer's preferences.
+
+The spreadsheet integration is on Google Drive.
+Scheduling uses [Cal.com](https://cal.com).
+
+## Setup
 This script is written in [Python 3.10.8](https://www.python.org/downloads/release/python-3108/).
 ```
 pip3 install requirements.txt
