@@ -24,6 +24,7 @@ GSpread uses credentials from Google Drive API as well. [Instructions here](http
 and store it in the main root folder as well.
 
 ### SalesForce
+Your dashboard should have the Shipped/Arrived chart in the top left with the same columns I have listed in this image.
 ![Your dashboard should have the Shipped/Arrived chart in the top left with the same columns I have listed in this image.](https://i.imgur.com/r1nPiHh.jpeg)
 
 
