@@ -25,7 +25,7 @@ and store it in the main root folder as well.
 
 ### SalesForce
 ![Your dashboard should have the Shipped/Arrived chart in the top left with the same columns I have listed in this image.](https://imgur.com/a/hm6Ah4K](https://i.imgur.com/r1nPiHh.jpeg)
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/hm6Ah4K" data-context="false" ><a href="//imgur.com/a/hm6Ah4K"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 You should now be ready to run the script with:
