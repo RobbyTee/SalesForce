@@ -5,7 +5,7 @@ I'm a glutton for punishment so I wrote this using Safari on Mac OS. I'm certain
 
 We use the Google Suite for spreadsheets and documents; [Cal.com](https://cal.com) for scheduling appointments.
 
-## Setup
+## Setup Python
 This script is written in [Python 3.10.8](https://www.python.org/downloads/release/python-3108/).
 ```
 pip3 install requirements.txt
