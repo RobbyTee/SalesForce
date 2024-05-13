@@ -32,8 +32,18 @@ Your dashboard should have the Shipped/Arrived chart in the top left with the sa
 
 ## Global Variables
 ![Global variables necessary for script to run](https://i.imgur.com/LvZHjRH.png)
-### Firewall Rules Spreadsheet ID
+### Firewall Rules
+**fw_rules_spreadsheet_id**
+**fw_rules_pdf_filename**
+**fw_rules_file_path**
 
+### Gmail App Password
+
+### Chat GPT API Key
+
+### Cal.com API Key
+
+## Global Controls
 You should now be ready to run the script with:
 ```
 python3 salesforce.py
