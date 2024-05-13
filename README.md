@@ -3,7 +3,7 @@
 This Python script automates assembling a spreadsheet based on information unique to an account in SalesForce and scheduling an appointment based on the customer's preferences. 
 I'm a glutton for punishment so I wrote this using Safari on Mac OS. I'm certain at this point it would have been easier to write this using Google Chrome.
 
-We use the Google Platform for spreadsheets and documents; [Cal.com](https://cal.com) for scheduling appointments.
+We use the Google Suite for spreadsheets and documents; [Cal.com](https://cal.com) for scheduling appointments.
 
 ## Setup
 This script is written in [Python 3.10.8](https://www.python.org/downloads/release/python-3108/).
