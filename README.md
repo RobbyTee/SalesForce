@@ -30,6 +30,10 @@ Your dashboard should have the Shipped/Arrived chart in the top left with the sa
 ![Your dashboard should have the Shipped/Arrived chart in the top left with the same columns I have listed in this image.](https://i.imgur.com/r1nPiHh.jpeg)
 
 
+## Global Variables
+[Global variables necessary for script to run](https://i.imgur.com/LvZHjRH.png)
+### Firewall Rules Spreadsheet ID
+
 You should now be ready to run the script with:
 ```
 python3 salesforce.py
