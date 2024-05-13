@@ -1,6 +1,7 @@
 # SalesForce
 
-This Python script automates assembling a spreadsheet based on information unique to an account and scheduling an appointment based on the customer's preferences.
+This Python script automates assembling a spreadsheet based on information unique to an account in SalesForce and scheduling an appointment based on the customer's preferences. 
+I'm a glutton for punishment so I wrote this using Safari on Mac OS. I'm certain at this point it'd be easier to recreate this in Google Chrome.
 
 We use the Google Platform for spreadsheets and documents; [Cal.com](https://cal.com) for scheduling appointments.
 
@@ -9,7 +10,7 @@ This script is written in [Python 3.10.8](https://www.python.org/downloads/relea
 ```
 pip3 install requirements.txt
 ```
-I'm a glutton for punishment so I wrote this in Safari. Your SafariDriver is located at /usr/bin/safaridriver. Be sure to "Allow Remote Automation" in Safari.
+Your SafariDriver is located at /usr/bin/safaridriver. Be sure to "Allow Remote Automation" in Safari.
 
 PyDrive2 uses OAuth created from Google Drive API. [Instructions here](https://docs.iterative.ai/PyDrive2/quickstart/).
 
