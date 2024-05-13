@@ -15,13 +15,13 @@ pip3 install requirements.txt
 ### Safari 
 Your SafariDriver is located at /usr/bin/safaridriver. Be sure to "Allow Remote Automation" in Safari. [This guide](https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari#2957277) was very helpful for set up and testing.
 
-PyDrive2 uses OAuth created from Google Drive API. [Instructions here](https://docs.iterative.ai/PyDrive2/quickstart/).
+### PyDrive2
+PyDrive2 uses OAuth created from Google Drive API. [Instructions here](https://docs.iterative.ai/PyDrive2/quickstart/). Store this
+file in the main root folder where SalesForce.py lives.
 
-GSpread uses credentials from Google Drive API as well. [Instructions here](https://docs.gspread.org/en/v5.12.1/oauth2.html).
-
--> Rename this file to "credentials.json"
-
-BOTH CREDENTIALS NEED TO BE STORED INSIDE THE SAME FOLDER AS firewall_rules.py
+### GSpread
+GSpread uses credentials from Google Drive API as well. [Instructions here](https://docs.gspread.org/en/v5.12.1/oauth2.html). Rename this file to "credentials.json" 
+and store it in the main root folder as well.
 
 You should now be ready to run the script with:
 ```
