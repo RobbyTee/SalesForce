@@ -13,7 +13,7 @@ pip3 install requirements.txt
 ```
 
 ### Safari 
-Your SafariDriver is located at /usr/bin/safaridriver. Be sure to "Allow Remote Automation" in Safari.
+Your SafariDriver is located at /usr/bin/safaridriver. Be sure to "Allow Remote Automation" in Safari. [This guide](https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari#2957277) was very helpful for set up and testing.
 
 PyDrive2 uses OAuth created from Google Drive API. [Instructions here](https://docs.iterative.ai/PyDrive2/quickstart/).
 
