@@ -23,6 +23,11 @@ file in the main root folder where SalesForce.py lives.
 GSpread uses credentials from Google Drive API as well. [Instructions here](https://docs.gspread.org/en/v5.12.1/oauth2.html). Rename this file to "credentials.json" 
 and store it in the main root folder as well.
 
+### SalesForce
+![Your dashboard should have the Shipped/Arrived chart in the top left with the same columns I have listed in this image.](https://imgur.com/a/hm6Ah4K)
+
+
+
 You should now be ready to run the script with:
 ```
 python3 salesforce.py
