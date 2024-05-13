@@ -3,6 +3,7 @@
 This Python script automates assembling a spreadsheet based on information unique to an account and scheduling an appointment based on the customer's preferences.
 
 The spreadsheet integration is on Google Drive.
+
 Scheduling uses [Cal.com](https://cal.com).
 
 ## Setup
@@ -15,6 +16,7 @@ I'm a glutton for punishment so I wrote this in Safari. Your SafariDriver is loc
 PyDrive2 uses OAuth created from Google Drive API. [Instructions here](https://docs.iterative.ai/PyDrive2/quickstart/).
 
 GSpread uses credentials from Google Drive API as well. [Instructions here](https://docs.gspread.org/en/v5.12.1/oauth2.html).
+
 -> Rename this file to "credentials.json"
 
 BOTH CREDENTIALS NEED TO BE STORED INSIDE THE SAME FOLDER AS firewall_rules.py
